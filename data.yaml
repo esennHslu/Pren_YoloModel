@@ -1,0 +1,6 @@
+train: images  # Path to training images
+val:  images    # Path to validation images
+
+nc: 4  # Number of classes (e.g., 1 for tape)
+
+names: ['barrier','dot','line','pylons']  # Class names
